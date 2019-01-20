@@ -14,6 +14,7 @@ Python Programming
    :caption: Contents:
 
    test
+   support
 
 
 Indices and tables
