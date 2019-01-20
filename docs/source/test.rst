@@ -1,4 +1,5 @@
 Test Installation
+*****************
 
 At the command line:
 
