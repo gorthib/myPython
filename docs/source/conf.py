@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'pythonWork'
+project = u'Gorti's Blog'
 copyright = u'2019, Gorti'
 author = u'Gorti'
 
